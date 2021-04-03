@@ -7,9 +7,9 @@ go build
 
 This command will generate a executable file **explorerTool**
 
-We need to move the executable file **explorerToool** into the `BlockchainExplorer` folder, then start the **explorerTool** service, by following command:
+We need to move the executable file **explorerToool** into the [BlockchainExplorer](https://github.com/zhaizhonghao/BlockchainExplorer) folder, then start the **explorerTool** service, by following command:
 
-```
+```shell
 ./explorerTool
 ```
 
